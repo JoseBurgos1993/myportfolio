@@ -1,0 +1,10 @@
+
+header{
+    width: 100%;
+}
+header h2{
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 0px;
+}

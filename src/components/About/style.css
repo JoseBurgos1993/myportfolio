@@ -1,0 +1,7 @@
+#floatleft{
+    float: left;
+    padding: 20px;
+}
+#floatright{
+    display: inline;
+}
