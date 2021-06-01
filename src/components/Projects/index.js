@@ -98,12 +98,13 @@ export default function Projects() {
                 <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank" rel="noreferrer noopener">Github</a>
             </Button>
             <Button size="small" color="primary">
-                <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank" rel="noreferrer noopener">Deployed Site</a>
+                <p>Deployed site under construction.</p>
             </Button>
             </CardActions>
         </Card>
         );
     }
+                //<a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank" rel="noreferrer noopener">Deployed Site</a>
     function BurgerCard() {
         const classes = useStyles();
     
