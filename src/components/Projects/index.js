@@ -58,7 +58,7 @@ export default function Projects() {
                 North Carolina Covid-19 Tracker
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                An application where you can view up-to-date stats on Covid-19 by county in North Carolina. Also contains links to helpful resources.
+                An application where you can view up-to-date stats on Covid-19 by county in North Carolina. Also contains links to helpful resources. Made with HTML, Javascript, and Axios.
                 </Typography>
             </CardContent>
             </CardActionArea>
@@ -89,7 +89,7 @@ export default function Projects() {
                 PetMatch
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                A social media app for animals. Create a profile for your pet and meet other pet owners. Plan meet-ups. 
+                A social media app for animals. Create a profile for your pet and meet other pet owners. Plan meet-ups. Made with HTML, CSS, Javascript, and Handlebars.
                 </Typography>
             </CardContent>
             </CardActionArea>
@@ -121,7 +121,7 @@ export default function Projects() {
                 Burgers
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                An app that uses Handlebars. Let's the user add and remove burgers from a list.
+                Let's the user add and remove burgers from a list. Made with HTML, Javascript, and Handlebars.
                 </Typography>
             </CardContent>
             </CardActionArea>
@@ -152,7 +152,7 @@ export default function Projects() {
                 Eloof
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                A Christmas-themed gift registry. Children can create an account and add item to their wishlist. Parents can come in and decide which gifts they want to buy for their child.
+                A Christmas-themed gift registry. Children can create an account and add item to their wishlist. Parents can come in and decide which gifts they want to buy for their child. Made with React, MongoDB, and Javascript.
                 </Typography>
             </CardContent>
             </CardActionArea>

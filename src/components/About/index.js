@@ -33,6 +33,8 @@ export default function Contact(){
                             <h2>About Me</h2>
                             <p>
                                 My name is Jose Burgos. I was born in Killeen, Texas in 1993. I graduated from Texas A&M University at Central Texas in 2016 with a degree in Computer Science. I have a certificate in Full Stack Web Development from the University of North Carolina. I am a problem solver who is passionate about creating intuitive designs and positive user experiences. It is my technical expertise, passion, and problem-solving skills that make me an advantageous candidate for any team. You can follow me on <a href="https://www.linkedin.com/in/jose-burgos-5b6214135/">LinkedIn</a> and <a href="https://github.com/JoseBurgos1993">Github</a>. You can download my <a href="JoseBurgos_Resume.pdf" download>Resume here</a>.
+
+                                Skill and Technologies: HTML, Javascript, Java, Python, React, MongoDB, MySQL, Node.js
                             </p>
                         </div>
                     </div>
