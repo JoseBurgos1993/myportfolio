@@ -50,7 +50,7 @@ export default function Projects() {
             <CardActionArea>
             <CardMedia
                 className={classes.media}
-                image="./mask.jpg"
+                image="mask.jpg"
                 title="Covid Tracker"
             />
             <CardContent>
@@ -64,10 +64,10 @@ export default function Projects() {
             </CardActionArea>
             <CardActions>
             <Button size="small" color="primary">
-                <a href="https://github.com/JoseBurgos1993/NC_Covid-19_Info" target="_blank">Github</a>
+                <a href="https://github.com/JoseBurgos1993/NC_Covid-19_Info" target="_blank" rel="noreferrer noopener">Github</a>
             </Button>
             <Button size="small" color="primary">
-                <a href="https://joseburgos1993.github.io/NC_Covid-19_Info/" target="_blank">Deployed Site</a>
+                <a href="https://joseburgos1993.github.io/NC_Covid-19_Info/" target="_blank" rel="noreferrer noopener">Deployed Site</a>
             </Button>
             </CardActions>
         </Card>
@@ -95,10 +95,10 @@ export default function Projects() {
             </CardActionArea>
             <CardActions>
             <Button size="small" color="primary">
-                <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank">Github</a>
+                <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank" rel="noreferrer noopener">Github</a>
             </Button>
             <Button size="small" color="primary">
-                <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank">Deployed Site</a>
+                <a href="https://github.com/JoseBurgos1993/Petmatch" target="_blank" rel="noreferrer noopener">Deployed Site</a>
             </Button>
             </CardActions>
         </Card>
@@ -126,10 +126,10 @@ export default function Projects() {
             </CardActionArea>
             <CardActions>
             <Button size="small" color="primary">
-                <a href="https://github.com/JoseBurgos1993/Burgers" target="_blank">Github</a>
+                <a href="https://github.com/JoseBurgos1993/Burgers" target="_blank" rel="noreferrer noopener">Github</a>
             </Button>
             <Button size="small" color="primary">
-                <a href="https://blooming-harbor-53033.herokuapp.com/" target="_blank">Deployed Site</a>
+                <a href="https://blooming-harbor-53033.herokuapp.com/" target="_blank" rel="noreferrer noopener">Deployed Site</a>
             </Button>
             </CardActions>
         </Card>
